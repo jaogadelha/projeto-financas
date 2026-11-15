@@ -61,4 +61,4 @@ Não precisa instalar nada.
 
 # Autor
 
-João Gadelha: estudante de Ciência da Computação, em busca de oportunidade como desenvolvedor.
+João Gadelha: estudante de Ciência da Computação.
