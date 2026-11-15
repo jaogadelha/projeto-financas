@@ -3,7 +3,7 @@
 
 Aplicação web para organizar as finanças pessoais: registrar entradas e saídas, separar por categoria e acompanhar para onde o dinheiro está indo mês a mês.
 
-🔗jaogadelha/projeto-financas
+🔗https://jaogadelha.github.io/projeto-financas/
 
 
 # Por que eu criei
