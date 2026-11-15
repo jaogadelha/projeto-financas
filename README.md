@@ -3,7 +3,7 @@
 
 Aplicação web para organizar as finanças pessoais: registrar entradas e saídas, separar por categoria e acompanhar para onde o dinheiro está indo mês a mês.
 
-🔗[LINK DO GITHUB PAGES]
+🔗jaogadelha/projeto-financas
 
 
 # Por que eu criei
@@ -42,12 +42,9 @@ Eu era desorganizado com dinheiro e não sabia dizer quanto entrava, quanto saí
 
 # Como rodar
 
-1. Clone o repositório:
-   ```
-   git clone [LINK DO SEU REPOSITÓRIO]
-   ```
-2. Abra o arquivo "index.html" no navegador.
+1.Acesse o link da demo no topo e pronto, não precisa instalar nada.
 
+2.Para rodar no seu computador, baixe os arquivos e abra o "index.html" no navegador.
 Não precisa instalar nada.
 
 # O que aprendi
